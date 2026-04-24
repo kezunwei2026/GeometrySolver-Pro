@@ -64,7 +64,7 @@ cd GeometrySolver-Pro
 
 ## 📸 预览
 
-*(在此处您可以添加项目的运行截图)*
+![Geometry Solver Preview](app/frontend/src/assets/preview.png)
 
 ## 📄 开源协议
 MIT License
