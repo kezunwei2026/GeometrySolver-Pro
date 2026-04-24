@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+app/backend/.env
+app/backend/history.db
+app/backend/*.log
+overview_dump.txt
+scratch/
+node_modules/
+dist/
+.DS_Store
